@@ -84,4 +84,4 @@ if selected == 'Wine':
 
         wine_prediction = wine_pred_model.predict([user_input])
 
-    st.success(wine_prediction)
+    st.success("The rating of the wine out of 10: ", wine_prediction[0])
