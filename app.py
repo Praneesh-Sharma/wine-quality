@@ -72,7 +72,7 @@ if selected == 'Wine':
     
 
     # code for Prediction
-    wine_diagnosis = ''
+    wine_prediction = ''
 
     # creating a button for Prediction
 
