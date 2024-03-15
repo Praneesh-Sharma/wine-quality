@@ -59,7 +59,7 @@ if selected == 'Wine':
         g = st.slider('Total Sulphur Disoxide', 6, 289, 6)
 
     with col2:
-        h = st.slider('Density', 0.9900, 1.0000, 0.9900)
+        h = st.slider('Density', 0.990, 1.000, 0.990)
 
     with col3:
         i = st.slider('pH', 2.74, 4.01, 2.74)
